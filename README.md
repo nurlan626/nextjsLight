@@ -1,1 +1,1 @@
-https://nextjs-5c71c1o7k-nurlan626.vercel.app/
+https://nextjs-light-b0v5m8t3g-nurlan626.vercel.app/
