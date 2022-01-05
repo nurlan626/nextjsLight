@@ -1,0 +1,32 @@
+.mainBox {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1300px;
+   
+}
+.title {
+    font-size: 30px;
+    font-weight: 900;
+}
+.box {
+    max-width: 250px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
+.box > div  {
+    margin: 10px;
+}
+.h1 {
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(122, 4, 219);
+}

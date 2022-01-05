@@ -1,0 +1,28 @@
+.navbar {
+  padding: 5px;
+  color: rgb(37, 37, 37);
+  padding: 10px;
+  :hover{
+    color: rgb(100, 41, 207);
+
+  }
+  font-size: 30px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  > A {
+    padding: 10px;
+
+  }
+}
+
+.container {
+  height: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.containerBody {
+  padding: 10px;
+}
